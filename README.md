@@ -12,10 +12,8 @@ This package includes two folders:
 		2.1) radonT.m
 		2.2) BLinesStats.m
 		2.3) CauchyProx.m
-		
-        2.4) CPS_Bline.m
-	
-        2.5) Detect_Bline.m
+		2.4) CPS_Bline.m
+	        2.5) Detect_Bline.m
 
 and the main MATLAB script:
 
