@@ -36,22 +36,27 @@ Copyright (c) Oktay Karakus <o.karakus@bristol.ac.uk>
 REFERENCE
 
 [1] O Karakus, N Anantrasirichai, A Aguersif, S Silva, A Basarab, and A Achim. "Detection of Line Artefacts in Lung Ultrasound Imaging of COVID-19 Patients via Non-Convex Regularization." arXiv preprint arXiv:2005.03080, 2020.
+
 arXiv link 	: https://arxiv.org/abs/2005.03080
 
 [2] O Karakus, A Achim. (2020): QuantLUS - CPS v1.0 
+
 https://doi.org/10.5523/bris.z47pfkwqivfj2d0qhyq7v3u1i.
 
 *** For the CPS Algorithm please also refer to:
 
 [3] O Karakus, P Mayo, and A Achim. "Convergence Guarantees for Non-Convex Optimisation with Cauchy-Based Penalties" arXiv preprint. arXiv preprint arXiv:2003.04798, 2020.
+
 arXiv link 	: https://arxiv.org/abs/2003.04798
 
 [4] O Karakus, A Achim. (2020): "Cauchy Proximal Splitting (CPS)". 	
+
 https://doi.org/10.5523/bris.15y437loa26cr2nx8gnn3l4hzi 
 
 *** For the radonT.m function please also refer to:
 
 [5] O Karakus, and A Achim. (2020): "AssenSAR Wake Detector."
+
 https://doi.org/10.5523/bris.f2q4t5pqlix62sv5ntvq51yjy
 *****************************************************************************************************************
 
