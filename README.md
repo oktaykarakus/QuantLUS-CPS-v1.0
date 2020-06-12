@@ -5,7 +5,8 @@ quantification from Lung ultrasound images.
 
 This package includes two folders:
 
-	1) images		: Stores images for line artefacts quantification study. We have only shared an example test image with name: testImage1.mat.
+	1) images		: Stores images for line artefacts quantification study. We have only shared an 
+				example test image with name: testImage1.mat.
 	
 	2) source functions	: Stores five source functions:
 		2.1) radonT.m
@@ -43,6 +44,7 @@ arXiv link 	: https://arxiv.org/abs/2005.03080
 https://doi.org/10.5523/bris.z47pfkwqivfj2d0qhyq7v3u1i.
 
 *** For the CPS Algorithm please also refer to:
+
 [3] O Karakus, P Mayo, and A Achim. "Convergence Guarantees for Non-Convex Optimisation with Cauchy-Based Penalties" arXiv preprint. arXiv preprint arXiv:2003.04798, 2020.
 arXiv link 	: https://arxiv.org/abs/2003.04798
 
@@ -50,6 +52,7 @@ arXiv link 	: https://arxiv.org/abs/2003.04798
 https://doi.org/10.5523/bris.15y437loa26cr2nx8gnn3l4hzi 
 
 *** For the radonT.m function please also refer to:
+
 [5] O Karakus, and A Achim. (2020): "AssenSAR Wake Detector."
 https://doi.org/10.5523/bris.f2q4t5pqlix62sv5ntvq51yjy
 *****************************************************************************************************************
