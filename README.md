@@ -1,5 +1,5 @@
 ****************************************** QuantLUS - CPS v1.0 **************************************************
-*****************************************************************************************************************
+
 This source code package includes the MATLAB source codes for implementing a novel method for line artefacts quantification in lung ultrasound (LUS) images of COVID-19 patients. The method is formulated as a non-convex regularisation problem involving a sparsity-enforcing, Cauchy-based penalty function, and the inverse Radon transform. Moreover, a simple local maxima detection technique in the Radon transform domain, associated with known clinical definitions of line artefacts, is employed. The method accurately identifies both horizontal and vertical line artefacts in LUS images. In order to reduce the number of false and missed detection, the method includes a two-stage validation mechanism, which is performed in both Radon and image domains.
 
 This package includes two folders:
@@ -34,7 +34,7 @@ Copyright (c) Oktay Karakus <o.karakus@bristol.ac.uk>
 *****************************************************************************************************************
 REFERENCE
 
-[1] O Karakus, N Anantrasirichai, A Aguersif, S Silva, A Basarab, and A Achim. "Detection of Line Artefacts in Lung Ultrasound Imaging 		of COVID-19 Patients via Non-Convex Regularization." arXiv preprint arXiv:2005.03080, 2020.
+[1] O Karakus, N Anantrasirichai, A Aguersif, S Silva, A Basarab, and A Achim. "Detection of Line Artefacts in Lung Ultrasound Imaging of COVID-19 Patients via Non-Convex Regularization." IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 67.11 (2020): 2218-2229.
 arXiv link 	: https://arxiv.org/abs/2005.03080
 
 [2] O Karakus, A Achim. (2020): QuantLUS - CPS v1.0 
@@ -42,7 +42,7 @@ https://doi.org/10.5523/bris.z47pfkwqivfj2d0qhyq7v3u1i.
 
 *** For the CPS Algorithm please also refer to:
 
-[3] O Karakus, P Mayo, and A Achim. "Convergence Guarantees for Non-Convex Optimisation with Cauchy-Based Penalties" arXiv preprint. 		arXiv preprint arXiv:2003.04798, 2020.
+[3] O Karakus, P Mayo, and A Achim. "Convergence Guarantees for Non-Convex Optimisation with Cauchy-Based Penalties" arXiv preprint. IEEE Transactions on Signal Processing 68 (2020): 6159-6170.
 arXiv link 	: https://arxiv.org/abs/2003.04798
 
 [4] O Karakus, A Achim. (2020): "Cauchy Proximal Splitting (CPS)". 	
